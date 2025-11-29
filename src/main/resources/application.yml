@@ -8,6 +8,4 @@ spring:
         git:
           uri: https://github.com/Myriem1/microservice
           clone-on-start: true
-          default-label: main
-    compatibility-verifier:
-      enabled: false
+
